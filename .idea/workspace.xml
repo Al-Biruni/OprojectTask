@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4fb4846-4c44-4fb9-8ea0-a8fb55625ce4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1pqu4g3slWdvSGvmuy039NuYhN6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4fb4846-4c44-4fb9-8ea0-a8fb55625ce4" name="Default Changelist" comment="" />
+      <created>1615922751932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615922751932</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="655" y="229" width="819" height="691" key="NewModule_or_Project.wizard" timestamp="1615944257504">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="655" y="229" width="819" height="691" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1615944257504" />
+    <state x="1164" y="457" width="710" height="578" key="find.popup" timestamp="1615944055307">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1164" y="457" width="710" height="578" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1615944055307" />
+    <state x="302" y="153" width="1372" height="799" key="new project wizard" timestamp="1615922858867">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="153" width="1372" height="799" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1615922858867" />
+  </component>
+</project>
